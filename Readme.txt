@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+# Comit SRL Web
 
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Sitio web para COMIT SRL desarrolladora de software
+
+## uso libre
+
+git clone https://github.com/JoaquinManresaDev/comitsrl.git
+
+## Joaquin Manresa
+
+https://joaquinmanresadev.github.io/
