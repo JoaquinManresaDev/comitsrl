@@ -2725,7 +2725,7 @@ section {
 
 /* Estilo adicional para las imágenes de los clientes */
 .clients {
-  height: 600px;
+  height: auto;
   background-color: rgb(1, 0, 20);;
 }
 
